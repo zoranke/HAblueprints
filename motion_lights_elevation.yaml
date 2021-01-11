@@ -1,7 +1,7 @@
 blueprint:
   name: Motion-activated Light with Elevation
   domain: automation
-  source_url: https://github.com/zoranke/HAblueprints/blob/main/motion_lights_elevation.yaml
+  source_url: https://gist.github.com/zoranke/551acd33483bdf458e8238b3eee30097
   input:
     motion_entity:
       name: Motion Sensor
